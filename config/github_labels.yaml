@@ -1,0 +1,56 @@
+-
+ name: "Status: Accepted"
+ description: Work accepted by assignee
+ color: 7bc043
+-
+ name: "Status: Available"
+ description: Ready to be worked on
+ color: f37736
+-
+ name: "Status: On hold"
+ description: Work is paused
+ color: fdf498
+-
+ name: "Status: Revision needed"
+ description: Requires more information 
+ color: ee4035
+-
+ name: "Status: Pending approval"
+ description: Waiting for go ahead
+ color: f37736
+-
+ name: "Status: In progress"
+ description: Actively being worked on
+ color: 0392cf
+-
+ name: "Type: Enhancement :rocket:"
+ description: Improvement or optimisation
+ color: "221131"
+-
+ name: "Type: Bug :bug:"
+ description: Something is wrong
+ color: ec5b1d
+-
+ name: "Type: Maintenance :hammer:"
+ description: Refactor or clean up
+ color: 12a3a7
+-
+ name: "Type: Question :question:"
+ description: Something is unclear
+ color: f2f2e7
+-
+ name: "Type: Idea :bulb:"
+ description: Something new worth exploring
+ color: "454040"
+-
+ name: "Priority: Critical"
+ color: f67676
+-
+ name: "Priority: High"
+ color: f2ae5a
+-
+ name: "Priority: Low"
+ color: d6eebf
+-
+ name: "Priority: Medium"
+ color: f4e39b

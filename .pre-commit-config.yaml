@@ -1,0 +1,5 @@
+repos:
+-   repo: https://github.com/cortexlogic/git-hooks.git
+    rev: stable
+    hooks:
+    - id: append_commit_with_issue_no_from_branch_name
